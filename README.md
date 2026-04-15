@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gamtor
+- 👋 Hi, I’m @SreekTi
 - 👀 I’m interested in Gaming :)
 - 🌱 I’m currently learning Godot
 - 💞️ I’m looking to collaborate on nothing
